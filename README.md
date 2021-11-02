@@ -1,2 +1,2 @@
 # VectorRobot
-Application for driving the Anki Vector Roboti.
+Application for driving the Anki Vector Robot.
